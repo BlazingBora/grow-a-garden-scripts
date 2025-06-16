@@ -1,7 +1,7 @@
 
 # 🌱 Grow A Garden Script 🌴 Pet and Seed Spawner | KEYLESS
 
-Welcome to the most recent and best working script for Grow a Garden!
+Welcome to the most recent and best working scripts for Grow a Garden!
 
 This script includes:
 - 🌱 **Infinite Seed Packs**: Automatically grants unlimited seeds, so your garden never stops growing.
