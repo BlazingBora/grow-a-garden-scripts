@@ -11,3 +11,4 @@ This script includes:
 If you have any suggestions, shoot me a message and I'll respond as quickly as possible.
 
 As always, ENJOY!
+~ Blaze
