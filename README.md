@@ -8,6 +8,12 @@ This script includes:
 - 📦 **Dupe Items and Pets**: Spawn rare or valuable pets.
 - 🔄 **2025 Update Support**: Tested and confirmed to work on the newest version of Grow A Garden.
 
+How to use:
+- Have a working Roblox executor
+- Join Grow a Garden
+- Paste the script
+- ...and wait!
+
 If you have any suggestions, shoot me a message and I'll respond as quickly as possible.
 
 As always, ENJOY!
