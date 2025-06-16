@@ -10,7 +10,7 @@ This script includes:
 
 How to use:
 - Have a working Roblox executor
-- Join Grow a Garden
+- Join a public Grow a Garden server
 - Paste the script
 - ...and wait!
 
